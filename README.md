@@ -28,4 +28,4 @@ HTTPStatusCode status = kHTTPStatusCodeAccepted;
 
 # License
 
-Yosef is available under the MIT license. See the LICENSE file for more info.
+StatusCode is available under the MIT license. See the LICENSE file for more info.
