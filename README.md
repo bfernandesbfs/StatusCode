@@ -20,6 +20,12 @@ let status = .accepted
 
 Copy and paste header file `HTTPStatusCodes.h` your project.
 
+```objc
+
+HTTPStatusCode status = kHTTPStatusCodeAccepted;
+
+```
+
 # License
 
 Yosef is available under the MIT license. See the LICENSE file for more info.
